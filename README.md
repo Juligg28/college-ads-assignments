@@ -12,25 +12,21 @@ The repository is organized by subject, and within each subject folder, you'll f
 
 
 ├── JavaScript/
-│   ├── 2023/
-│   │   ├── 08-August/
+│   ├── 2025/
+│   │   ├── 02-February/
 │   │   └── 11-November/
-│   └── 2024/
+│   └── 2026/
 │       ├── 03-March/
 │       └── ...
-├── HTML/
-│   ├── 2022/
+
+
+├── HTML-CSS/
+│   ├── 2025/
 │   │   ├── 05-May/
 │   │   └── 09-September/
-│   └── 2023/
+│   └── 2026/
 │       └── ...
-└── CSS/
-├── 2022/
-│   └── 06-June/
-└── 2024/
-└── ...
-├── README.md
-└── ... (other files or folders for different subjects)
+
 
 
 **Explanation:**
